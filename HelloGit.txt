@@ -1,2 +1,4 @@
 This is the first file that I'm going to commit to Git!!! So excited!
+
+Kind of scared of breaking everything so I'm testing things out!
 - Jason Narrainen
